@@ -1,1 +1,2 @@
-This is chap 1. 
+This is chap 1.
+Second line added.
